@@ -7,8 +7,8 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-1. https://github.com/sush99/liftoff-assignments/blob/master/P3-Project_Planning/View%20Wireframe.jpg
-1. https://github.com/sush99/liftoff-assignments/blob/master/P3-Project_Planning/Edit%20Wireframe.jpg
+1. https://github.com/sush99/liftoff-assignments/blob/419f446a3a899c85ee9002e4639050ddddb95c98/P3-Project_Planning/Edit%20Wireframe.jpg
+1. https://github.com/sush99/liftoff-assignments/blob/419f446a3a899c85ee9002e4639050ddddb95c98/P3-Project_Planning/View%20Wireframe.jpg
 
 ### Project Tracker
 
